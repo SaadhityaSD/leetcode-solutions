@@ -2,7 +2,7 @@
 
 <p align="center">
   <em>
-    👨‍💻 B.Tech CSE | 8.5 CGPA | 600+ Skillrack | 100+ LeetCode | AI/ML Enthusiast | Building → Learning 🚀
+    👨‍💻 B.Tech CSE | 8.5 CGPA | 600+ Skillrack | 100+ LeetCode | SDE Enthusiast | Building → Learning 🚀
   </em>
 </p>
 
@@ -19,7 +19,7 @@
 
 ### 🛠 Tech Stack
 
-- 💻 Languages: Python, C++, JavaScript
+- 💻 Languages: Python, C, Java
 - 🤖 ML Tools: NumPy, pandas, scikit-learn, TensorFlow
 - 🧪 Tools: Git, VS Code, Postman, Jupyter
 - 🔧 Dev: Linux, GitHub, Firebase, Unity (AR Basics)
@@ -37,6 +37,6 @@
 
 ### 🔗 Connect With Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://linkedin.com/in/your-profile)  
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=flat&logo=leetcode)](https://leetcode.com/your-id)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](www.linkedin.com/in/saadhitya-sutish-81b124293)  
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=flat&logo=leetcode)](https://leetcode.com/u/saadhityasd/)
 
