@@ -7,7 +7,7 @@ I’m using this to improve my coding skills and prepare for technical interview
 
 ## 🧠 What’s Inside
 
-- ✅ Python solutions to various LeetCode problems
+- ✅ Python and java solutions to various LeetCode problems
 - 🗂️ Organized by topic (e.g., Arrays, Strings, DP)
 - 📌 Clean and simple code for quick revision
 
